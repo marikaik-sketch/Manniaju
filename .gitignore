@@ -1,0 +1,12 @@
+# Mac
+.DS_Store
+
+# Saladused — paroolid, API võtmed, ligipääsud.
+# Ei lähe kunagi GitHubi ega vestlusesse.
+# Sel nädalal ei ole sul siia veel midagi panna. See on juba õigesti seadistatud
+# selleks hetkeks, kui su esimene agent päriselt võtit vajab.
+# Kõik variandid (.env.local, .env.production …), igal tasemel.
+.env*
+**/.env*
+!.env.example
+!**/.env.example
