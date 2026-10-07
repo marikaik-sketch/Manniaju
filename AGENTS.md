@@ -34,7 +34,7 @@ Need on soovitused. **Kui allpool „Minu vastus" on tühi, näita mulle neid es
 - Ära hinda oma tööd („see on väga hea tulemus"). Näita tulemust, mina hindan.
 - Ära seleta asju, mida ma juba tean. Kui sa ei tea, kas ma tean, küsi.
 
-**Minu vastus:** *(täida ära — kuni siin on tühi, küsi esimese töö lõpus)*
+**Minu vastus:** sobivad nii, nagu on (2026-10-07).
 
 ## Kaustad
 
