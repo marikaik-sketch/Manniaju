@@ -22,6 +22,7 @@ Vaata **[`01-mina/kes-ma-olen.md`](01-mina/kes-ma-olen.md)** — nimi, ettevõte
 - **Ja kui sa kirjutad „tehniline märkus", kirjuta selle järele üks lause inimkeeles:** mida see minu jaoks tähendab ja mida ma tegema pean. Muidu loen ma lahendust probleemina.
 - Toores ingliskeelne termin on tihti arusaadavam kui eestindatud versioon. „Commit" on okei. „Commit'ida" ja „initsialiseerida" ei ole kummaski keeles sõnad.
 - Ära kirjuta minu eest turunduskeeles. Kui mina ütlen „ma aitan inimestel oma kodu korda saada", siis kirjuta nii, mitte „terviklikud ruumilahendused".
+- **Kui kirjutad minu eest teksti, järgi kirjutamise reegleid** failis [`01-mina/stiil-ja-toon.md`](01-mina/stiil-ja-toon.md).
 
 ### Kuidas mulle vastata
 
