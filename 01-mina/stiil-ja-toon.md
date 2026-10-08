@@ -41,6 +41,8 @@ Need kehtivad eesti keeles. Teises keeles kirjutades kasuta sama loogikat.
 
 *Minu otsus (2026-10-08):* isiklikes postitustes on minu hääl tähtsam kui ülalolevad reeglid 1, 5 ja 9. Täitesõnad ja emotsionaalsed võimendajad jäävad sisse — „ikkagi", „muidugi", „eriti", „erakordselt", „mega äge", „kift" — sest need on minu jutt. Teistes tekstides (BDA veeb, kirjad, pakkumised) kehtivad reeglid nagu enne.
 
+*Minu otsus (2026-10-08):* **vaheldu sõnu.** Sama tundesõna ei tule kahe järjestikuse postituse alguses ega kaks korda ühes postituses. „Kift" on mul juba kasutatud — ära pane seda igasse postitusse. Varuks: „põnev", „lahe", „vahva", „kui hea tunne on", „äge".
+
 **Näited:**
 
 > Kift on teha suuri asju, millel on suur mõju ning mis teevad meie väikese aga visa riigi suuremaks! Ja ei väsi inspireerumast Eesti ettevõtete tegemistest ja unistustest, nende ambitsioonidest, hoolimata lõpututest kriisidest ja takistustest.
