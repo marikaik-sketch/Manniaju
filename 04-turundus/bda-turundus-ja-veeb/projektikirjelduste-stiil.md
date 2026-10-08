@@ -33,7 +33,7 @@ Peamine allikas on projekti **lõpparuanne**. Sealt tulevad tegevused, osalejate
 
 Kolleegi näidete põhjal (tabel agendikonto Drive'is, „lo veebi teksti näidised"):
 
-- **Pealkiri on programmi ametlik nimi aruande tiitellehelt.** *Minu otsus (2026-10-08).* Mitte tabeli töönimi ega lühend. Lühendi (nt LoomeDigi) võib panna teksti sisse.
+- **Pealkiri on programmi ametlik nimi aruande tiitellehelt.** *Minu otsus (2026-10-08).* Mitte tabeli töönimi ega lühend. Lühendi (nt LoomeDigi) võib panna teksti sisse. Aastaarv või hooaeg („2023", „sügis 2025") jääb ära, kui gruppe oli mitu. Kui mitu sarnast programmi on ühes tekstis ja ühist ametlikku nime pole, sobib koondnimi (nt „Turismiettevõtete ekspordivõimekuse arenguprogrammid").
 - **Tabeli veerud:** valdkond · projekti pealkiri · kirjeldus · pilt · pildi alt-tekst (sama, mis pealkiri).
 - **Toon: natuke soe.** *Minu otsus (2026-10-08).* Soojus tuleb tegusõnadest, mitte kiitusest: „võttis ette", „käis samm-sammult läbi", „oli toeks", „sai kaasa selge plaani". Ainult natuke — faktid ja numbrid jäävad samaks.
 - **Minu enda parandustest (Strateegia praktikum, 2026-10-08):** sild sissejuhatuse ja projekti vahel („Just seda tegime …"), mentor kui inimene, „kellega mõtteid põrgatada", lõpulause tulemuse mõttest („Tulemuseks ei olnud lihtsalt …, vaid …"). Lõigud võivad olla eraldi ridadel.
