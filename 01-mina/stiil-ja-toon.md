@@ -28,8 +28,27 @@ Need kehtivad eesti keeles. Teises keeles kirjutades kasuta sama loogikat.
 
 ## Minu hääl
 
-> **TÜHI.** Näita Claude'ile 2–3 asja, mille sa oled ise kirjutanud — postitus, kliendikiri, pakkumine — ja ütle:
+*Kirjeldus tehtud 2026-10-08 kahe minu LinkedIni postituse põhjal (aprill ja juuni 2026, BDA programmide lõpust).*
+
+**Isiklikud LinkedIni postitused:**
+
+- **Algus on lühike rõõmus hüüatus.** „Kift on …", „On ikkagi äge, et …". Hüüumärk lõpus.
+- **Siis üks lause sellest, mis mind rõõmustab või inspireerib.** Suurem pilt: Eesti ettevõtjad, nende ambitsioon, väike aga visa riik.
+- **Lõpus tänamine nimepidi.** Iga organisatsioon ja inimene märgitud (tag). Kordan „Aitäh …, et …" mitu korda järjest. „Ja muidugi aitäh …" tuleb viimasena — tavaliselt BDA tiim, vahel ka konkreetsed inimesed eraldi.
+- **Jutukas, nagu räägiks.** „ikkagi", „muidugi", „ja veel eriti tore on ka see", „kampa tulite", „mägesid liigutada", „mega äge". Vahel üks mõte sulgudes.
+- **Lühike:** 2–3 lõiku. Emotikone oma tekstis ei kasuta.
+- **Selgitav sisu jääb jagatud postitusse.** Jagan BDA või partneri postitust ja minu tekst on isiklik kommentaar selle peale.
+
+*Claude'i ettepanek (ei ole veel minu otsus):* isiklikes postitustes on minu hääl tähtsam kui ülalolev reegel 1 — „ikkagi" ja „muidugi" kuuluvad minu jutu juurde ja neid ei kärbita.
+
+**Näited:**
+
+> Kift on teha suuri asju, millel on suur mõju ning mis teevad meie väikese aga visa riigi suuremaks! Ja ei väsi inspireerumast Eesti ettevõtete tegemistest ja unistustest, nende ambitsioonidest, hoolimata lõpututest kriisidest ja takistustest.
 >
-> *„Loe need läbi, kirjelda mu häält ja kirjuta see `01-mina/stiil-ja-toon.md` faili. Kasuta minu enda sõnu, ära ilusta."*
+> Aitäh EIS | Enterprise Estonia, et meid usaldate. Aitäh mentorid, et meiega koos suuri tegusid teete ja aitäh BDA Consulting tiim, eriti Lo Rihvk ja Hannele Aljaste, kes kogu selle programmi hindele 5+ juhtisid ja arendasid!
+
+> On ikkagi äge, et ettevõtlikus ja huvi ettevõtluse vastu on meil Eestis nii kõrge!
 >
-> Kolm päris teksti õpetavad su häält rohkem kui pool tundi selle kirjeldamist.
+> Ja veel eriti tore on ka see, et minu sõprade ning tuttavate hulgas on erakordselt palju inspireerivaid näiteid ning nad on nõus neid ka laiemalt jagama. Aitäh, et kampa tulite […].
+>
+> Ja muidugi aitäh Eesti Töötukassa, et selliseid programme ellu kutsud ning muidugi kogu meie BDA Consulting naiskond, kellega võib mägesid liigutada (rääkimata tuhandete eestimaalaste koolitamisest ja inspireerimisest)!

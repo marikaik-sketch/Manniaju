@@ -6,7 +6,7 @@ Kõige lühem fail su ajus, ja esimene, mille iga AI läbi loeb.
 
 ---
 
-- **Nimi ja ettevõte:**
+- **Nimi ja ettevõte:** Marikai Karilaid, BDA Consulting
 - **Mida ma müün, ühe lausega:**
 - **Keel, milles ma töötan:** eesti keel
 
