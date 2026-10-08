@@ -36,6 +36,7 @@ Kolleegi näidete põhjal (tabel agendikonto Drive'is, „lo veebi teksti näidi
 - **Pealkiri on programmi ametlik nimi aruande tiitellehelt.** *Minu otsus (2026-10-08).* Mitte tabeli töönimi ega lühend. Lühendi (nt LoomeDigi) võib panna teksti sisse.
 - **Tabeli veerud:** valdkond · projekti pealkiri · kirjeldus · pilt · pildi alt-tekst (sama, mis pealkiri).
 - **Toon: natuke soe.** *Minu otsus (2026-10-08).* Soojus tuleb tegusõnadest, mitte kiitusest: „võttis ette", „käis samm-sammult läbi", „oli toeks", „sai kaasa selge plaani". Ainult natuke — faktid ja numbrid jäävad samaks.
+- **Minu enda parandustest (Strateegia praktikum, 2026-10-08):** sild sissejuhatuse ja projekti vahel („Just seda tegime …"), mentor kui inimene, „kellega mõtteid põrgatada", lõpulause tulemuse mõttest („Tulemuseks ei olnud lihtsalt …, vaid …"). Lõigud võivad olla eraldi ridadel.
 - **Sõnavalik:** „maksimumpunktidega", mitte „täispunktidega".
 - **Pikkus:** 3–5 lauset, umbes 50–90 sõna.
 - **Algus:** üks mõte teema kohta, mitte projekti kohta. Näiteks: „Kiirendi on hea formaat kiirelt teada saada, kas idee väärib ettevõtte aega."
