@@ -39,7 +39,7 @@ Need kehtivad eesti keeles. Teises keeles kirjutades kasuta sama loogikat.
 - **Lühike:** 2–3 lõiku. Emotikone oma tekstis ei kasuta.
 - **Selgitav sisu jääb jagatud postitusse.** Jagan BDA või partneri postitust ja minu tekst on isiklik kommentaar selle peale.
 
-*Minu otsus (2026-10-08):* isiklikes postitustes on minu hääl tähtsam kui ülalolev reegel 1 — „ikkagi" ja „muidugi" kuuluvad minu jutu juurde ja neid ei kärbita.
+*Minu otsus (2026-10-08):* isiklikes postitustes on minu hääl tähtsam kui ülalolevad reeglid 1, 5 ja 9. Täitesõnad ja emotsionaalsed võimendajad jäävad sisse — „ikkagi", „muidugi", „eriti", „erakordselt", „mega äge", „kift" — sest need on minu jutt. Teistes tekstides (BDA veeb, kirjad, pakkumised) kehtivad reeglid nagu enne.
 
 **Näited:**
 
