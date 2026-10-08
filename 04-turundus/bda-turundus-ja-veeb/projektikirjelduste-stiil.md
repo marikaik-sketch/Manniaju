@@ -10,7 +10,8 @@ Kuidas kirjutada BDA kodulehele projektide tutvustusi. Vorm tuleb kolleegi kirju
 
 - **Eelarvet ei avaldata.** Mitte summat ega vahemikku.
 - **Osalevaid ettevõtteid nimepidi ei nimetata.** Kirjuta arvu ja tüübi kaupa, näiteks „12 tööstusettevõtet".
-- Tellija ja koostööpartnerid on kolleegi näidetes nimega (Telia, Sotsiaalministeerium, Cambridge'i ülikool). *Ettepanek, kinnitamata:* tellija ja partnerid nimetatakse, osalejad mitte.
+- **Tellija nimetatakse.** Näiteks Telia, Sotsiaalministeerium.
+- Koostööpartnerid (näiteks Cambridge'i ülikool) on kolleegi näidetes nimega. *Ettepanek, kinnitamata:* partnerid nimetatakse samuti.
 
 ## Allikas
 
