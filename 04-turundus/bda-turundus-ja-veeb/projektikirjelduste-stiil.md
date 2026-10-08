@@ -38,4 +38,5 @@ Kolleegi näidete põhjal (tabel agendikonto Drive'is, „lo veebi teksti näidi
 - **Keskel:** mida me tegime. Meie-vorm, minevik: „aitasime", „rakendasime", „keskendusime".
 - **Lõpus:** üks konkreetne tulemus või number: „6 arendustiimi", „ca 200 inimest", uus teenus, mis sündis.
 - Võib olla ka kliendi tsitaat koos nime ja ametiga.
+- **Kui projekt toimus mitu korda,** ütle see ühe sõnaga ja pane numbrid kokku: „kolmest VUNKi voorust", „kolm hooaega", „läbi aastate kokku sadu juhte", „kahes grupis 20 ettevõtet".
 - **Sama projekt mitmes valdkonnas** saab igas valdkonnas eri nurga alt teksti. Näiteks innovatsioon: mis tekkis; strateegia: mis suund valiti; juhtimine: mis muutus juhtimises.
