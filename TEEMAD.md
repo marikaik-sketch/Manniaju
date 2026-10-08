@@ -84,6 +84,8 @@ Mitte see, mida sa teed, vaid see, mis on kliendi jaoks pärast teisiti. Ja tõe
 
 → `04-turundus/kanalid.md` (kanalid) ja `HETKESEIS.md` (kitsaskoht)
 
+*BDA kodulehe tekstide stiil elab kaustas `04-turundus/bda-turundus-ja-veeb/`.*
+
 Kaks asja, mis koos ütlevad su ajule, mida sulle üldse soovitada.
 
 **Kust nad tulevad:** soovitused, koduleht, sotsiaalmeedia, otsekontakt, reklaam — ja umbkaudu kui palju kust. Enamikul on tegelikult ainult üks kanal, aga seda pole keegi valjusti öelnud.

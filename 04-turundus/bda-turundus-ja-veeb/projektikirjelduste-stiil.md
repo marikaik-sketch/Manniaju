@@ -1,4 +1,6 @@
-# BDA projektikirjeldused veebi jaoks
+# BDA turundus ja veeb: projektikirjelduste stiil
+
+**Kasuta seda alati, kui kirjutad BDA kodulehele projekti tutvustust.** See on BDA hääl, mitte minu isiklik hääl. Üldised kirjutamise reeglid tulevad failist [`01-mina/stiil-ja-toon.md`](../../01-mina/stiil-ja-toon.md).
 
 Kuidas kirjutada BDA kodulehele projektide tutvustusi. Vorm tuleb kolleegi kirjutatud näidetest. Näited ise elavad agendikonto Drive'is, mitte siin.
 

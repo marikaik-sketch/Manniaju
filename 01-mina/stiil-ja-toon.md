@@ -24,6 +24,8 @@ Kuidas ma kirjutan ja räägin. Kui see fail on täidetud, kõlab kõik, mida su
 
 Need kehtivad eesti keeles. Teises keeles kirjutades kasuta sama loogikat.
 
+**BDA veebitekstid** (projektikirjeldused kodulehele) järgivad lisaks BDA stiili: vt [`04-turundus/bda-turundus-ja-veeb/projektikirjelduste-stiil.md`](../04-turundus/bda-turundus-ja-veeb/projektikirjelduste-stiil.md).
+
 ## Minu hääl
 
 > **TÜHI.** Näita Claude'ile 2–3 asja, mille sa oled ise kirjutanud — postitus, kliendikiri, pakkumine — ja ütle:
