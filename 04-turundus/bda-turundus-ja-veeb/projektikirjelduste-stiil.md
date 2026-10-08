@@ -34,6 +34,7 @@ Peamine allikas on projekti **lõpparuanne**. Sealt tulevad tegevused, osalejate
 Kolleegi näidete põhjal (tabel agendikonto Drive'is, „lo veebi teksti näidised"):
 
 - **Tabeli veerud:** valdkond · projekti pealkiri · kirjeldus · pilt · pildi alt-tekst (sama, mis pealkiri).
+- **Toon: natuke soe.** *Minu otsus (2026-10-08).* Soojus tuleb tegusõnadest, mitte kiitusest: „võttis ette", „käis samm-sammult läbi", „oli toeks", „sai kaasa selge plaani". Ainult natuke — faktid ja numbrid jäävad samaks.
 - **Pikkus:** 3–5 lauset, umbes 50–90 sõna.
 - **Algus:** üks mõte teema kohta, mitte projekti kohta. Näiteks: „Kiirendi on hea formaat kiirelt teada saada, kas idee väärib ettevõtte aega."
 - **Keskel:** mida me tegime. Meie-vorm, minevik: „aitasime", „rakendasime", „keskendusime".
