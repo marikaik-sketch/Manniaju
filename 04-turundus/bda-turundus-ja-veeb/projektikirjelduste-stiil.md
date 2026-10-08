@@ -11,7 +11,8 @@ Kuidas kirjutada BDA kodulehele projektide tutvustusi. Vorm tuleb kolleegi kirju
 - **Eelarvet ei avaldata.** Mitte summat ega vahemikku.
 - **Osalevaid ettevõtteid nimepidi ei nimetata.** Kirjuta arvu ja tüübi kaupa, näiteks „12 tööstusettevõtet".
 - **Tellija nimetatakse.** Näiteks Telia, Sotsiaalministeerium.
-- Koostööpartnerid (näiteks Cambridge'i ülikool) on kolleegi näidetes nimega. *Ettepanek, kinnitamata:* partnerid nimetatakse samuti.
+- **Koostööpartnerid nimetatakse.** Näiteks „koostöös Leani, Flowiti ja Digiwise'iga".
+- **Tellija nimi on praegune nimi.** EAS → EIS, ka siis, kui projekti ajal oli nimi teine.
 
 ## Allikas
 
