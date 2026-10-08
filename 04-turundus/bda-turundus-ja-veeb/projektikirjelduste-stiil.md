@@ -37,6 +37,7 @@ Kolleegi näidete põhjal (tabel agendikonto Drive'is, „lo veebi teksti näidi
 - **Tabeli veerud:** valdkond · projekti pealkiri · kirjeldus · pilt · pildi alt-tekst (sama, mis pealkiri).
 - **Toon: natuke soe.** *Minu otsus (2026-10-08).* Soojus tuleb tegusõnadest, mitte kiitusest: „võttis ette", „käis samm-sammult läbi", „oli toeks", „sai kaasa selge plaani". Ainult natuke — faktid ja numbrid jäävad samaks.
 - **Minu enda parandustest (Strateegia praktikum, 2026-10-08):** sild sissejuhatuse ja projekti vahel („Just seda tegime …"), mentor kui inimene, „kellega mõtteid põrgatada", lõpulause tulemuse mõttest („Tulemuseks ei olnud lihtsalt …, vaid …"). Lõigud võivad olla eraldi ridadel.
+- **„Meie" ainult selle kohta, mida BDA ise tegi** (korraldas, viis läbi töötoad). Mentorite ja ekspertide tööst kirjuta nende nimel: „mentorid vaatasid koos ettevõttega üle …", mitte „vaatasime".
 - **Sõnavalik:** „maksimumpunktidega", mitte „täispunktidega".
 - **Pikkus:** 3–5 lauset, umbes 70 sõna, kõige rohkem 90. *Minu otsus (2026-10-08): pigem lühem.*
 - **Algus:** üks mõte teema kohta, mitte projekti kohta. Näiteks: „Kiirendi on hea formaat kiirelt teada saada, kas idee väärib ettevõtte aega."
