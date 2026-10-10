@@ -55,6 +55,7 @@ Mis failis mis teema elab — vt [`TEEMAD.md`](TEEMAD.md).
 - **Aju on GitHubis.** Ma töötan brauseris, mitte arvuti-äpis.
 - **Töödokumendid on minu agendikonto Drive'is** — eraldi kontol, mis on AI-ga konnektoriga ühendatud. Sealt loed ja sinna salvestad töö tulemused: pakkumised, arved, kliendifailid, toormaterjal.
 - **Minu arvutit sa ei näe, ja see on meelega.** Kui mõni juhend eeldab arvutis olevat kausta, paku Drive'i varianti. Arvuti ühendamine on hilisem eraldi otsus, mille ma teen pärast riskihindamist.
+- **Minu arvuti andmed** (mudel, seerianumber) on failis [`01-mina/arvuti-ja-seadmed.md`](01-mina/arvuti-ja-seadmed.md).
 - **Minu isiklik post ja isiklik Drive ei ole ühendatud.** Kui mõni töö neid vajaks, ütle, mis failid või kirjad tuleks agendikontole tuua.
 
 ## Aju keel on eesti keel
