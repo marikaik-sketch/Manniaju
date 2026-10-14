@@ -22,8 +22,9 @@ Reegel on kirjas `AGENTS.md`-s: **kui sa lisad midagi, mis töötab ainult ühes
 |---|---|---|---|---|
 | 1 | `CLAUDE.md` automaatne lugemine | `CLAUDE.md` | Claude Code loeb selle iga vestluse alguses ise | Minut. Teises tööriistas ütle esimeses lauses: *„loe AGENTS.md"*. |
 | 2 | Konnektorid (Drive, GitHub) | AI-tööriista seadetes, **mitte sinu repos** | Annavad AI-le ligipääsu agendikonto Drive'ile ja su ajule | Minut tööriista kohta. Uues tööriistas ühenda sama agendikonto ja sama repo uuesti. |
+| 3 | Hommikuse briifi ajastus | Claude'i Routines (claude.ai → Routines), **mitte sinu repos** | Käivitab iga hommik uue Claude'i sessiooni, mis teeb `skillid/hommikune-briif` järgi briifi ja saadab selle e-postiga. Vajab Kalendri ja Gmaili konnektorit. | Kümme minutit. Uues tööriistas loo ajastatud töö, mis ütleb: *„loe skillid/hommikune-briif/SKILL.md ja tee see"*. |
 
-**Praegu on siin kaks rida ja see ongi õige.** Sa alles alustad. Iga kord, kui sa lisad automaatika, otsetee või ühenduse, tuleb rida juurde — ja kaheksa nädala pärast tead sa täpselt, mida sa peaksid uuesti ehitama, kui sa tööriista vahetad.
+**Praegu on siin kolm rida.** Sa alles alustad. Iga kord, kui sa lisad automaatika, otsetee või ühenduse, tuleb rida juurde — ja kaheksa nädala pärast tead sa täpselt, mida sa peaksid uuesti ehitama, kui sa tööriista vahetad.
 
 ---
 

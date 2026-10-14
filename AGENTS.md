@@ -74,6 +74,7 @@ Skill on juhend ühe korduva töö jaoks: millal see käivitub, mida teha, mis k
 | Skill | Millal kasutada |
 |---|---|
 | [`riskihindamine`](skillid/riskihindamine/SKILL.md) | Kui ma ütlen „tee riskihindamine", „hinda riske", „kas seda tööriista tohib kliendiandmetega kasutada", või kui ma võtan kasutusele uue tööriista, konnektori või agendi |
+| [`hommikune-briif`](skillid/hommikune-briif/SKILL.md) | Kui ma ütlen „tee hommikune briif", „mis mul täna on", või kui ajastatud hommikutöö selle käivitab |
 
 **Kui me teeme uue skilli**, pane see kausta `skillid/<nimi>/SKILL.md` ja lisa siia tabelisse üks rida. Vt [`skillid/README.md`](skillid/README.md).
 
