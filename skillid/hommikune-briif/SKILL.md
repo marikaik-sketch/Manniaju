@@ -44,10 +44,11 @@ Kalendri konnektor Google Tasksi ülesandeid ei näe. Kuni Tasksi ühendust pole
 Lühike e-kiri, HTML-ina, eesti keeles. Järjekord:
 
 1. **Kattuvused** — ainult siis, kui neid on. Kõige üles, sest need nõuavad otsust.
-2. **Minu päev** — kellaaeg, mis, Meet-link kui on. Ajajärjekorras.
-3. **Karla logistika** — kes, kuhu, mis kell. Pluss üks taustarida koolipäeva ja huviringidega.
-4. **Topu** — saabujad ja lahkujad. Kui täna midagi pole, jäta plokk ära.
-5. **Tasks** — vt ülal.
+2. **Minu isiklik kalender** (`marikaik@gmail.com`) — kellaaeg, mis, Meet-/Zoom-link kui on. Ajajärjekorras.
+3. **BDA Consulting** (`consulting.bda@gmail.com`) — eraldi plokk, mitte isikliku kalendriga koos. Sama kuju.
+4. **Karla logistika** — kes, kuhu, mis kell. Pluss üks taustarida koolipäeva ja huviringidega.
+5. **Topu** — saabujad ja lahkujad. Kui täna midagi pole, jäta plokk ära.
+6. **Tasks** — vt ülal.
 
 Ära lisa kokkuvõtet, soovitusi ega „ilusat päeva". Kui päev on tühi, ütle seda ühe lausega.
 
