@@ -32,6 +32,8 @@ Ajavöönd on alati `Europe/Tallinn`.
 
 Kalendri konnektor Google Tasksi ülesandeid ei näe. Kuni Tasksi ühendust pole, kirjuta briifi lõppu üks rida: „Google Tasksi ülesandeid ma ei näe." Kui ühendus tuleb, lisa siia, kust need lugeda, ja võta briifi ainult kuupäeva ja kellaajaga ülesanded.
 
+Kord päevas, briifi tegemise ajal: otsi konnektorite registrist (`SearchMcpRegistry`) märksõnadega „google tasks" ja „google keep". Kui mõni neist ilmub (nimi on Google Tasks või Google Keep), saada Marikaile PushNotification ja lisa briifi lõppu üks rida. Kui kumbagi pole, ära ütle midagi. Kui Marikai on konnektori ühendanud, eemalda see kontroll siit.
+
 ## Mida teha, samm-sammult
 
 1. Loe kõigist viiest kalendrist tänased sündmused (00:00–24:00 Tallinna aja järgi).
