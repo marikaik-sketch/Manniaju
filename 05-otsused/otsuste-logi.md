@@ -8,6 +8,14 @@ Kuue nädala pärast ei mäleta sa, miks sa mingi otsuse tegid. See fail mäleta
 
 ---
 
+**2026-10-28 — Aju on ka eraelu jaoks, igal teemal oma kaust**
+
+**Otsus:** Aju ei ole ainult äri jaoks. Töö ja eraelu on seotud ning iga mulle oluline teema saab oma kausta `06-teemad/` all. Esimene on Topu mets.
+
+**Miks:** Topu mets on ajalooliselt oluline ja selle lugu peab säilima. Teemad on eraldi, et nad ei läheks segi.
+
+---
+
 ## *(näidis — kustuta see ära, kui su enda esimene otsus siia jõuab)*
 
 **2026-08-13 — Ehitasin oma ettevõtte aju**

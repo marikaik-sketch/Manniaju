@@ -45,10 +45,13 @@ Need on soovitused. **Kui allpool „Minu vastus" on tühi, näita mulle neid es
 | `03-protsessid/` | Kuidas ma töötan, mis kordub iga kliendiga |
 | `04-turundus/` | Kust kliendid tulevad, mis laused töötavad |
 | `05-otsused/` | Numbrid, otsuste logi, mis on juba proovitud |
+| `06-teemad/` | Minu olulised teemad, töö ja eraelu, igaüks oma kaustas. Vt [`06-teemad/README.md`](06-teemad/README.md). |
 | `skillid/` | Minu skillid — tööd, mida sa teed iga kord samamoodi. Vt „Skillid" allpool. |
 | `riskihindamine/` | Tekib siis, kui ma esimest korda riskihindamise teen. Mis tööriistu ma kasutan ja kas nad tohivad kliendiandmeid näha. |
 
 Mis failis mis teema elab — vt [`TEEMAD.md`](TEEMAD.md).
+
+**Aju on nii töö kui eraelu jaoks.** Kõik on omavahel seotud. Iga mulle oluline teema saab oma kausta `06-teemad/<nimi>/` ja rea [`06-teemad/README.md`](06-teemad/README.md) tabelisse. Kui ma toon uue teema, paku välja nimi ja tee kaust.
 
 ## Minu seadistus: brauser
 
@@ -172,6 +175,7 @@ Vasta nelja osaga:
 ### Otsusta taustal nii
 
 - **Püsiv äriteadmine või otsus** → olemasolev sobiv Braini fail.
+- **Minu oluline teema (töö või eraelu)** → oma kaust `06-teemad/<nimi>/`.
 - **Korduv tööviis, mall või kontrollnimekiri** → `03-protsessid/`. Ära kopeeri sinna näidisdokumentide kliendiandmeid.
 - **Toored dokumendid ja näited** → agendikonto Drive'i (näiteks kausta `Toormaterjal`). Braini läheb ainult neist õpitud püsiv reegel.
 - **Muutuv register** — CRM, kalender, raamatupidamine, arvete arhiiv → jääb algallikasse. Brain ei hoia sellest koopiat.
