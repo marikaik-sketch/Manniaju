@@ -55,7 +55,7 @@ Brauseris alustab iga uus vestlus GitHubi viimasest versioonist — seal ei pea 
 | `05-otsused/minu-numbrid.md` | Numbrid: käive, kliendid, mitut klienti ma jõuan **(1)** |
 | `05-otsused/mis-on-proovitud.md` | Mis ei töötanud ja mille juurde ei ole vaja tagasi tulla **(8)** |
 | `05-otsused/otsuste-logi.md` | Mis otsustati, millal, miks |
-| `06-teemad/` | Minu olulised teemad, töö ja eraelu, igaüks oma kaustas. Esimene: Topu mets. |
+| `06-teemad/` | Minu olulised teemad, töö ja eraelu, igaüks oma kaustas. Esimene: Topu. |
 
 **Ja kaks kausta, mis täituvad töö käigus:**
 
