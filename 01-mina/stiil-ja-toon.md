@@ -39,7 +39,7 @@ Need kehtivad eesti keeles. Teises keeles kirjutades kasuta sama loogikat.
 - **Lühike:** 2–3 lõiku. Emotikone oma tekstis ei kasuta.
 - **Selgitav sisu jääb jagatud postitusse.** Jagan BDA või partneri postitust ja minu tekst on isiklik kommentaar selle peale.
 
-*Minu otsus (2026-10-08):* isiklikes postitustes on minu hääl tähtsam kui ülalolevad reeglid 1, 5 ja 9. Täitesõnad ja emotsionaalsed võimendajad jäävad sisse — „ikkagi", „muidugi", „eriti", „erakordselt", „mega äge", „kift" — sest need on minu jutt. Teistes tekstides (BDA veeb, kirjad, pakkumised) kehtivad reeglid nagu enne.
+*Minu otsus (2026-10-08):* isiklikes postitustes on minu hääl tähtsam kui ülalolevad reeglid 1, 5 ja 9. Täitesõnad ja emotsionaalsed võimendajad jäävad sisse — „ikkagi", „muidugi", „eriti", „erakordselt", „mega äge", „kift" — sest need on minu jutt. Teistes tekstides (BDA veeb, töökirjad, pakkumised) kehtivad reeglid nagu enne. Sama erand kehtib isiklikes kirjades sõpradele, vt allpool.
 
 *Minu otsus (2026-10-08):* **vaheldu sõnu.** Sama tundesõna ei tule kahe järjestikuse postituse alguses ega kaks korda ühes postituses. „Kift" on mul juba kasutatud — ära pane seda igasse postitusse. Varuks: „põnev", „lahe", „vahva", „kui hea tunne on", „äge".
 
@@ -67,7 +67,7 @@ Need kehtivad eesti keeles. Teises keeles kirjutades kasuta sama loogikat.
 - **Lõpp:** „Ootan väga!" ja allkiri **Mann**. Pärast allkirja võib tulla NB!/NBNB! — lühike, enda üle muigav.
 - **Üks emotikon on lubatud** (😊), erinevalt LinkedInist.
 
-*Minu ettepanek, ootab sinu otsust:* isiklikes kirjades sõpradele kehtib sama erand nagu isiklikes postitustes — reeglid 1, 5 ja 9 ei kehti („ikka", „pigem" jäävad sisse).
+*Minu otsus (2026-10-29):* isiklikes kirjades sõpradele kehtib sama erand nagu isiklikes postitustes — reeglid 1, 5 ja 9 ei kehti („ikka", „pigem" jäävad sisse).
 
 **Näide** (sõbra nimi, e-post ja link asendatud):
 
