@@ -54,3 +54,41 @@ Need kehtivad eesti keeles. Teises keeles kirjutades kasuta sama loogikat.
 > Ja veel eriti tore on ka see, et minu sõprade ning tuttavate hulgas on erakordselt palju inspireerivaid näiteid ning nad on nõus neid ka laiemalt jagama. Aitäh, et kampa tulite […].
 >
 > Ja muidugi aitäh Eesti Töötukassa, et selliseid programme ellu kutsud ning muidugi kogu meie BDA Consulting naiskond, kellega võib mägesid liigutada (rääkimata tuhandete eestimaalaste koolitamisest ja inspireerimisest)!
+
+**Isiklikud kirjad sõpradele** (kutsed, teated):
+
+*Kirjeldus tehtud 2026-10-29 minu 50. juubeli kutse põhjal.*
+
+- **Pöördumine on soe ja suure tähega.** „Mu hea Sõber!" Üksikisikut kõnetan „Sina" suure tähega, gruppi „teie" („saate", „andke"). Mõlemad võivad samas kirjas olla.
+- **Algus on vallatu.** Mängin enda üle nalja: „Kohekohe viskabki ette Mann 5.0." Siis kohe asja juurde: „Ja nagu lubatud — tuleb pidu!"
+- **Praktiline info on punktidena.** Iga punkt algab märksõnaga („Riietus:", „Mis on plaanis:") või kohe faktiga: aeg, koht, söök-jook. Punkti sees jutt ja huumor: „Peo lõpp läheb öösse, ma loodan.", „pigem on püstijalamöll".
+- **Kõnekeel ja oma sõnad.** „miskit", „heietusi", „möll", „ütlemata õnnelik".
+- **Üks südamlik lõik.** Ilma paatoseta tänulikkus inimeste eest. Kingituste keeld on sõnastatud soojalt: „teadmisest, et olete ühe telefonikõne kaugusel".
+- **Lõpp:** „Ootan väga!" ja allkiri **Mann**. Pärast allkirja võib tulla NB!/NBNB! — lühike, enda üle muigav.
+- **Üks emotikon on lubatud** (😊), erinevalt LinkedInist.
+
+*Minu ettepanek, ootab sinu otsust:* isiklikes kirjades sõpradele kehtib sama erand nagu isiklikes postitustes — reeglid 1, 5 ja 9 ei kehti („ikka", „pigem" jäävad sisse).
+
+**Näide** (sõbra nimi, e-post ja link asendatud):
+
+> Mu hea Sõber!
+>
+> Kohekohe viskabki ette Mann 5.0. Ja nagu lubatud- tuleb pidu!
+> Olulisemad detailid:
+>
+> * Laupäeva, 14. novembri õhtul kell 18 ootan Sind Koplis, Ankrusaalis (Ankru tn 10). Peo lõpp läheb öösse, ma loodan.
+> * Saab süüa (külmlaud), saab juua (mullid, veinid, õlled, morsid) ja kui sellest ei piisa, siis kangemat saate soetada baarist.
+> * Riietus: kostüüminõuet ei ole (aga alati saate seda võimalust kasutada ja kostüümis tulla). Vaadake, et jalas oleks miskit mugavat, sest istumist kõigile korraga ei jagu ning pigem on püstijalamöll.
+> * Mis on plaanis: saab minu heietusi kuulata, tantsida, laulda, on oodata ka üllatusi.
+> * Teie üllatusetteasteid ootan ka mina. Ning et üllatus ka üllatus oleks, andke oma plaanidest teada [sõbrale], mitte mulle (e-mailil [e-post]).
+> * Kui on mõni tantsulugu, mis ka Sind tantsima paneb, siis palun pane see kirja [SIIN LINGIL].
+>
+> Mis veel: elu on mind hoidnud ja olen ikka ütlemata õnnelik, et mu ümber on nii palju häid inimesi. Siit ka minu suurim soov - et see nii ka jätkuks. Ja sellest mulle piisabki - teadmisest, et olete ühe telefonikõne kaugusel. Seega palun, ära hakka pead murdma kingituste ega ümbriku ega muuga!
+>
+> NB! Kui sa ei saa tulla, siis anna palun sellest mulle märku (kui märguannet ei tule, siis eeldan, et oled kohal😊)!
+>
+> Ootan väga!
+>
+> Mann
+>
+> NBNB! Mul on vastukäiv informatsioon ruumi mahutavuse osas, aga küll me mahume ära!
