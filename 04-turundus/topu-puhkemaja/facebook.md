@@ -1,6 +1,6 @@
 # Topu Facebooki postitused
 
-Kuidas Topu Facebookis räägib. Reeglid on võetud minu enda postitustest. **Praegu on näiteid kolm — järeldused on esialgsed**, täpsusta, kui neid tuleb juurde.
+Kuidas Topu Facebookis räägib. Reeglid on võetud minu enda postitustest. **Praegu on näiteid neli — järeldused on esialgsed**, täpsusta, kui neid tuleb juurde.
 
 ## Mida Topu postitus teeb (esialgne)
 
@@ -14,9 +14,17 @@ Kuidas Topu Facebookis räägib. Reeglid on võetud minu enda postitustest. **Pr
 - Emotikone vähe ja ainult alguses (päikesed, talvel lumehelbed), vahel üks naerunägu.
 - **Talvel müüb suve:** näitab talvepilte, aga kutsub suveks — „Suvel on sama ilus, aga veidi soojem ja rohelisem ja meri sinisem."
 - **Vabu aegu on vähe:** „vabad on veel vaid ühe käe sõrmede jagu nädalavahetusi", „veel on valikut".
+- **Mitte iga postitus ei müü.** Vahel on see lihtsalt elu majas ja aitäh sõpradele (talgud, kontsert).
 - **Suunab kalendrisse:** topu.ee/kalender + e-post (+ telefon).
 
 ## Näited
+
+**2025-05-12** — kevadtalgud, suveks valmis, aitäh sõpradele.
+
+> Nädalavahetusel olid puhkemaja ja hoov rahvast täis. Pidasime talguid. Nüüd oleme suveks täitsa valmis ning nii nii õnnelikud, et nõnda paljud meile ka appi tulid!
+>
+> Õhtu lõpetuseks toimus ka väike kontsert, virtuoos Janeki juhtimisel!
+> Aitäh sõbrad ja näeme peagi!
 
 **2026-07-22** — vaba nädalavahetus, pilt loojangust hoovilt. 4 meeldimist, 5 jagamist.
 
