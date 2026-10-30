@@ -7,6 +7,7 @@
 - **Topu Puhkemaja** — meie oma majutusasutus. Koduleht: [www.topu.ee](https://www.topu.ee)
 - **Minu roll:** teen Topu turundust.
 - **Maja, toad, söök, tegevused, kodukord:** vt [`maja.md`](maja.md).
+- **Facebooki hääl ja näited:** vt [`facebook.md`](facebook.md).
 - **Hinnad ja broneerimise tingimused:** vt [`hinnad.md`](hinnad.md).
 - **Broneeringud** tulevad kalendrisse „Topu Puhkemaja Bronnid" (vt [`skillid/hommikune-briif`](../../skillid/hommikune-briif/SKILL.md)).
 
@@ -21,4 +22,4 @@
 
 - Kellele Topu on (pered, seltskonnad, paarid?) ja mis neid sinna toob
 - Kanalid: kust broneeringud tulevad (FB, Booking, otse?)
-- Topu hääl Facebookis — tuleb su FB tekstidest
+- Telefon: FB postitus ütleb 56 46 1333, koduleht +372 5691 4440. Kumba kasutada?
