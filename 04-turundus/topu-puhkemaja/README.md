@@ -12,6 +12,10 @@
 - **Hinnad ja broneerimise tingimused:** vt [`hinnad.md`](hinnad.md).
 - **Broneeringud** tulevad kalendrisse „Topu Puhkemaja Bronnid" (vt [`skillid/hommikune-briif`](../../skillid/hommikune-briif/SKILL.md)).
 
+## Kes meil käivad
+
+2026. aasta suvel: perekonnad, suguvõsad, kunstilaagrid suurtele ja väikestele. Varasemates FB postitustes ka sõpruskonnad ja klassikokkutulekud (osa käib igal aastal). Hinnakirjas on eraldi soodustus lastelaagritele.
+
 ## Kus mis on
 
 - **Siin kaustas:** püsiv teadmine — kellele Topu on, mis sõnumid töötavad, Topu hääl ja reeglid.
@@ -20,6 +24,6 @@
 ## Veel puudu
 
 - Kodulehel parandada: telefon (vana +372 5691 4440 → 56 46 1333) ja majutuse lehel kaugus Haapsalust (10 km → 13 km).
-- Kellele Topu on ja mis neid sinna toob. FB postitused nimetavad sõpruskondi, sugulasi, klassikokkutulekuid; hinnakiri peresid ja lastelaagreid. Kes on päriselt kõige sagedasem?
+- Kes on kõige sagedasem külaline ja mis neid Topule toob? (Kes käivad — vt „Kes meil käivad" ülal.)
 - Kanalid: kust broneeringud tulevad (FB, Booking, otse?)
 - Millal maja sügisel sulgeb?
