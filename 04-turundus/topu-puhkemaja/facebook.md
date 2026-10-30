@@ -1,6 +1,6 @@
 # Topu Facebooki postitused
 
-Kuidas Topu Facebookis räägib. Reeglid on võetud minu enda postitustest. **Praegu on näiteid viis — järeldused on esialgsed**, täpsusta, kui neid tuleb juurde.
+Kuidas Topu Facebookis räägib. Reeglid on võetud minu enda postitustest. **Praegu on näiteid seitse — järeldused on esialgsed**, täpsusta, kui neid tuleb juurde.
 
 ## Mida Topu postitus teeb (esialgne)
 
@@ -9,10 +9,11 @@ Kuidas Topu Facebookis räägib. Reeglid on võetud minu enda postitustest. **Pr
 - **Tegevused tegusõnadena, lõpuks ka laiskus:** ujuma, kala püüdma, surfama, supitama, logelema, päevitama.
 - **Väike enda kogemus:** „eile oli loojang meie hoovilt vaadatuna just nii nagu pildil".
 - **Huumor kõrvalausena:** „(vihma on ikka üliharva)".
-- **Pilt on päris ja oma**, mitte stock.
+- **Pilt on päris ja oma**, mitte stock. Vahel sulgudes, millal ja kus pilt tehti: „(foto tehtud 23.07.24 õhtul puhkemaja juures merelt)".
 - **Lõpus lihtne üleskutse:** kirjuta või helista, e-post ja telefon.
 - Emotikone vähe ja ainult alguses (päikesed, talvel lumehelbed), vahel üks naerunägu.
-- **Talvel müüb suve:** näitab talvepilte, aga kutsub suveks — „Suvel on sama ilus, aga veidi soojem ja rohelisem ja meri sinisem."
+- **Lõpetab hooaja müüki:** suve lõpus kiidab augustit — „oma veidi pimedamate õhtute ja ritsikate siristamisega".
+- **Talvel müüb suve:** näitab talvepilte, aga kutsub suveks — „Suvel on sama ilus, aga veidi soojem ja rohelisem ja meri sinisem." See mõte kordub igal talvel — sobib Topu püsilauseks.
 - **Teised on juba broneerinud:** „Väga paljud meie vanad ja uued sõbrad on varakult oma broneeringud … ära teinud."
 - **Nimetab, kellega tulla:** sõpradega, sugulastega, klassikaaslaste kokkutulek „või täitsa niisama".
 - **Vabu aegu on vähe:** „vabad on veel vaid ühe käe sõrmede jagu nädalavahetusi", „veel on valikut".
@@ -22,6 +23,24 @@ Kuidas Topu Facebookis räägib. Reeglid on võetud minu enda postitustest. **Pr
 ## Näited
 
 Vanimast uuemani.
+
+**2024-01-09** — talvepildid, suveplaanid.
+
+> ❄️❄️Topu talved on ilusad. Isegi väga ilusad. Aga täpselt sama ilusad, kuid veidi soojemad on meie suved.
+>
+> 📢Sõbrad aeg mõtelda suvele ja teha plaane!
+>
+> Paljud on oma Topu plaanid juba lukku löönud, kuid veel on vabasid aegasid nii nädala sees kui ka nädalavahetustel!
+> Kirjuta info@topu.ee või helista 56 46 1333. Vabasid aegasid näeb siit: http://topu.ee/kalender
+>
+> (fotod on tehtud nädalavahetusel Topu Puhkemaja juures merel)
+
+**2024-07-24** — suve keskel, kutse augustiks. Pilt merelt.
+
+> Suvepäevad, -õhtud ja -ööd Topul on jätkuvalt oma ilus ja võlus imelised! Mai, juuni ja juuli on meile pakkunud palju päikest, sooja merevett ja õnnelikke külalisi!
+>
+> Kusjuures, ka august on tavapäraselt meil ilus ja soe, oma veidi pimedamate õhtute ja ritsikate siristamisega. Tulge külla!
+> (foto tehtud 23.07.24 õhtul puhkemaja juures merelt)
 
 **2025-01-05** — uue aasta tervitus, talveilu, suveks broneerimine.
 
