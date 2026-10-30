@@ -1,6 +1,6 @@
 # Topu Facebooki postitused
 
-Kuidas Topu Facebookis räägib. Reeglid on võetud minu enda postitustest. **Praegu on näiteid seitse — järeldused on esialgsed**, täpsusta, kui neid tuleb juurde.
+Kuidas Topu Facebookis räägib. Reeglid on võetud minu enda postitustest. **Praegu on näiteid kaheksa — järeldused on esialgsed**, täpsusta, kui neid tuleb juurde.
 
 ## Mida Topu postitus teeb (esialgne)
 
@@ -8,7 +8,10 @@ Kuidas Topu Facebookis räägib. Reeglid on võetud minu enda postitustest. **Pr
 - **Konkreetne põhjus kohe alguses:** vaba aeg kuupäevadega.
 - **Tegevused tegusõnadena, lõpuks ka laiskus:** ujuma, kala püüdma, surfama, supitama, logelema, päevitama.
 - **Väike enda kogemus:** „eile oli loojang meie hoovilt vaadatuna just nii nagu pildil".
-- **Huumor kõrvalausena:** „(vihma on ikka üliharva)".
+- **Huumor kõrvalausena:** „(vihma on ikka üliharva)", „Aga need ei ole hülged, mis pildil."
+- **Külalise enda sõnad ja pilt:** külalise tsitaat jutumärkides, siis selgitus, kes nad on.
+- **Tulevad tagasi:** „kes meil juba mitmendat korda", „kes juba korduvalt käinud on ning ikka ja jälle tagasi soovivad tulla".
+- **Topu elu ühe lausega:** „Selline see elu meil Topu Puhkemajas ongi: maal ja merel ja meres."
 - **Pilt on päris ja oma**, mitte stock. Vahel sulgudes, millal ja kus pilt tehti: „(foto tehtud 23.07.24 õhtul puhkemaja juures merelt)".
 - **Lõpus lihtne üleskutse:** kirjuta või helista, e-post ja telefon.
 - Emotikone vähe ja ainult alguses (päikesed, talvel lumehelbed), vahel üks naerunägu.
@@ -22,7 +25,16 @@ Kuidas Topu Facebookis räägib. Reeglid on võetud minu enda postitustest. **Pr
 
 ## Näited
 
-Vanimast uuemani.
+Vanimast uuemani. Külaliste nimed asendatakse „[külaline]"-ga, ka siis, kui postitus on avalik.
+
+**2023-08-07** — klassikokkutuleku pilt meres, külalise tsitaat. Külalise nimi on siin asendatud.
+
+> 🦭🔥🐬🌊🦭"Meie nädalavahetuse põhitegevus ja kõige sagedasem vaatepilt. Nii päeval kui öösel, saunatades ja niisama" ütles [külaline], kui meile selle pildi saatis.
+>
+> Aga need ei ole hülged, mis pildil. On hoopis ühe Haapsalu kooli klassikokkutulek, kes meil juba mitmendat korda. Selline see elu meil Topu Puhkemajas ongi: maal ja merel ja meres.
+>
+> Suvi kestab!
+> Tulge ka. Järgmise aasta suvi on ka ukse ees, meil broneeringuid juba hoogsalt lisandub - just nendelt, kes juba korduvalt käinud on ning ikka ja jälle tagasi soovivad tulla.
 
 **2024-01-09** — talvepildid, suveplaanid.
 
