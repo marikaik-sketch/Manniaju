@@ -29,10 +29,9 @@ Ehitatud nõukogude ajal Balti Laevaremonditehase suvilaks. Selle aja hõngu on 
 
 - Kahekordne maja.
 - **1. korrus:** köök-puhketuba, kaminaruum, saun, pesemisruumid, WC.
-- **2. korrus:** 9 magamistuba, kokku 20 voodikohta. Toad on 2-kohalised, üks on 4-kohaline. Pooltes tubades narid, teistes üheinimese voodid.
+- **2. korrus:** 9 magamistuba, kokku 20 voodikohta. 8 tuba kahe voodiga, 1 tuba nelja voodiga. Pooltes tubades narid, teistes üheinimese voodid.
 - Lisakohti saab madratsite ja tugitoolvooditega. Madratseid on umbes 5, nende ja tugitoolide jaoks võtavad külalised linad, tekid ja padjad ise kaasa. Narituppa mahub maha madrats; tuppa nr 7 ka (siis 5 inimest).
 - Voodid on puhta pesuga, saunalinad võtavad külalised ise kaasa.
-- Toad: 8 tuba kahe voodiga, 1 tuba nelja voodiga.
 - Projektorit ja internetti ei ole.
 - Igal toal on rõdu. Pooled toad vaatavad merele, pooled hoovi poole. Tube jagatakse vaba koha ja külalise soovi järgi.
 - 2. korrusel suur veranda, vaade merele ja laidudele.

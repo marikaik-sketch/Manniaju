@@ -1,11 +1,12 @@
 # Topu Facebooki postitused
 
-Kuidas Topu Facebookis räägib. Reeglid on võetud minu enda postitustest. **Praegu on näiteid kaheksa — järeldused on esialgsed**, täpsusta, kui neid tuleb juurde.
+Kuidas Topu Facebookis räägib. Reeglid on võetud minu enda postitustest. **Praegu on näiteid üheksa — järeldused on esialgsed**, täpsusta, kui neid tuleb juurde.
 
 ## Mida Topu postitus teeb (esialgne)
 
 - **Pöördumine sõbra moodi:** „Sõbrad!" — mitte „Head kliendid".
 - **Konkreetne põhjus kohe alguses:** vaba aeg kuupäevadega.
+- **Viimase hetke vaba aeg = kiire otsus:** „Tehke kiired spontaansed otsused, sest täiesti ootamatult vabaneb meil…" Vahel üks sõna suurtähtedega: „SELLINE SUVI!"
 - **Tegevused tegusõnadena, lõpuks ka laiskus:** ujuma, kala püüdma, surfama, supitama, logelema, päevitama.
 - **Väike enda kogemus:** „eile oli loojang meie hoovilt vaadatuna just nii nagu pildil".
 - **Huumor kõrvalausena:** „(vihma on ikka üliharva)", „Aga need ei ole hülged, mis pildil."
@@ -29,12 +30,13 @@ Vanimast uuemani. Külaliste nimed asendatakse „[külaline]"-ga, ka siis, kui 
 
 **2023-08-07** — klassikokkutuleku pilt meres, külalise tsitaat. Külalise nimi on siin asendatud.
 
-> 🦭🔥🐬🌊🦭"Meie nädalavahetuse põhitegevus ja kõige sagedasem vaatepilt. Nii päeval kui öösel, saunatades ja niisama" ütles [külaline], kui meile selle pildi saatis.
+**2023-06-30** — ootamatult vabanenud nädalavahetus, spontaanne kutse.
+
+> ⛱️📢 Sõbrad! Vaadake õue - SELLINE SUVI! Tehke kiired spontaansed otsused, sest täiesti ootamatult vabaneb meil suve kõige kõige kuumem nädalavahetus puhkemajas ehk 14.-16 juulil (reedest pühapäevani)!
 >
-> Aga need ei ole hülged, mis pildil. On hoopis ühe Haapsalu kooli klassikokkutulek, kes meil juba mitmendat korda. Selline see elu meil Topu Puhkemajas ongi: maal ja merel ja meres.
+> Miks mitte teha üks sõpradega kogunemine, ekspromt klassi või sugulaste kokkutulek või surf ja grill ning niisama chill.
 >
-> Suvi kestab!
-> Tulge ka. Järgmise aasta suvi on ka ukse ees, meil broneeringuid juba hoogsalt lisandub - just nendelt, kes juba korduvalt käinud on ning ikka ja jälle tagasi soovivad tulla.
+> Helista 56 46 1333 või kirjuta info@topu.ee!
 
 **2024-01-09** — talvepildid, suveplaanid.
 
@@ -96,3 +98,10 @@ Vanimast uuemani. Külaliste nimed asendatakse „[külaline]"-ga, ka siis, kui 
 > Õhtud ja ka päevad on meil imeilusad (vihma on ikka üliharva). Näiteks eile oli loojang meie hoovilt vaadatuna just nii nagu pildil.
 >
 > Kirjuta info@topu.ee või helista 56 46 1333
+
+> 🦭🔥🐬🌊🦭"Meie nädalavahetuse põhitegevus ja kõige sagedasem vaatepilt. Nii päeval kui öösel, saunatades ja niisama" ütles [külaline], kui meile selle pildi saatis.
+>
+> Aga need ei ole hülged, mis pildil. On hoopis ühe Haapsalu kooli klassikokkutulek, kes meil juba mitmendat korda. Selline see elu meil Topu Puhkemajas ongi: maal ja merel ja meres.
+>
+> Suvi kestab!
+> Tulge ka. Järgmise aasta suvi on ka ukse ees, meil broneeringuid juba hoogsalt lisandub - just nendelt, kes juba korduvalt käinud on ning ikka ja jälle tagasi soovivad tulla.
