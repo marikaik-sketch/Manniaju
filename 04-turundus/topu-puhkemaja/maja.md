@@ -1,5 +1,7 @@
 # Topu Puhkemaja: maja ja võimalused
 
+Hinnad on eraldi failis [`hinnad.md`](hinnad.md).
+
 Faktid kodulehelt [topu.ee](https://topu.ee) (seis 2026-10-30). Kui kodulehel midagi muutub, kirjuta siin üle.
 
 ## Asukoht ja kontakt
@@ -7,6 +9,7 @@ Faktid kodulehelt [topu.ee](https://topu.ee) (seis 2026-10-30). Kui kodulehel mi
 - Kiviküla, Ridala vald, Läänemaa — umbes 10 km Haapsalust
 - Otse mere kaldal, majast mereni umbes 50 meetrit
 - info@topu.ee · +372 5691 4440
+- Teejuhis „vanakooli kirjelduse järgi": [topu.ee/kontakt/tee-topule](https://topu.ee/kontakt/tee-topule)
 
 ## Lugu
 
@@ -45,4 +48,4 @@ Ehitatud nõukogude ajal Balti Laevaremonditehase suvilaks. Selle aja hõngu on 
 
 ## Kodulehel veel
 
-Hinnakiri, lõbustused, pildid, kalender, toetus — neid lehti pole veel siia toodud.
+Lõbustused, pildid, kalender, toetus — neid lehti pole veel siia toodud.
