@@ -39,4 +39,4 @@ Isikukood, kontonumber, kodune aadress ja kliendi eraelu ei lähe AI-le ega ajju
 
 ## Minu põhjad
 
-> **TÜHI.** Alusta sellest dokumendist, mida sa kõige tihedamini teed. Enamasti on see pakkumine või kokkuvõte.
+- **Topu külaliskirjad** — vt [`04-turundus/topu-puhkemaja/kirjad.md`](../04-turundus/topu-puhkemaja/kirjad.md).

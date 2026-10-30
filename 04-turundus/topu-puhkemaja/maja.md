@@ -2,7 +2,7 @@
 
 Hinnad on eraldi failis [`hinnad.md`](hinnad.md).
 
-Faktid kodulehelt [topu.ee](https://topu.ee) (seis 2026-10-30). Kui kodulehel midagi muutub, kirjuta siin üle.
+Faktid kodulehelt [topu.ee](https://topu.ee) ja minu külaliskirjadest (seis 2026-10-30). Kui kodulehel midagi muutub, kirjuta siin üle.
 
 ## Asukoht ja kontakt
 
@@ -15,6 +15,12 @@ Faktid kodulehelt [topu.ee](https://topu.ee) (seis 2026-10-30). Kui kodulehel mi
 
 Talvel on maja kinni. Avab uksed mai keskel (FB, 2026-01-21). Millal sulgeb — veel teadmata.
 
+## Saabumine ja lahkumine
+
+- Check-in alates 15.00. Varem saab kokkuleppel, kui samal päeval teisi külalisi ei ole.
+- Check-out hiljemalt 11.30.
+- Ruumid jäetakse samasse korda: nõud pestud või masinas, prügi kastis, mööbel kohal. Mööblit võib õue viia, aga tagasi tõsta.
+
 ## Lugu
 
 Ehitatud nõukogude ajal Balti Laevaremonditehase suvilaks. Selle aja hõngu on tunda tänagi.
@@ -24,7 +30,10 @@ Ehitatud nõukogude ajal Balti Laevaremonditehase suvilaks. Selle aja hõngu on 
 - Kahekordne maja.
 - **1. korrus:** köök-puhketuba, kaminaruum, saun, pesemisruumid, WC.
 - **2. korrus:** 9 magamistuba, kokku 20 voodikohta. Toad on 2-kohalised, üks on 4-kohaline. Pooltes tubades narid, teistes üheinimese voodid.
-- Lisakohti saab madratsite ja tugitoolvooditega.
+- Lisakohti saab madratsite ja tugitoolvooditega. Madratseid on umbes 5, nende ja tugitoolide jaoks võtavad külalised linad, tekid ja padjad ise kaasa. Narituppa mahub maha madrats; tuppa nr 7 ka (siis 5 inimest).
+- Voodid on puhta pesuga, saunalinad võtavad külalised ise kaasa.
+- Toad: 8 tuba kahe voodiga, 1 tuba nelja voodiga.
+- Projektorit ja internetti ei ole.
 - Igal toal on rõdu. Pooled toad vaatavad merele, pooled hoovi poole. Tube jagatakse vaba koha ja külalise soovi järgi.
 - 2. korrusel suur veranda, vaade merele ja laidudele.
 - Telkimisplats.
@@ -32,8 +41,10 @@ Ehitatud nõukogude ajal Balti Laevaremonditehase suvilaks. Selle aja hõngu on 
 ## Söök
 
 - Ise saab süüa teha: elektripliit, potid-pannid, nõud, külmikud, mitu pikka lauda.
-- Grill olemas, söed võta ise kaasa. Laenutada saab suurt gaasi-grillpanni.
+- Söegrill olemas, söed ja grillitarbed võta ise kaasa. Gaasigrill on ka olemas (kodulehel: laenutada saab suurt gaasi-grillpanni).
+- Lähim pood on Haapsalus, umbes 10 km — asjad tasub enne varuda.
 - Puhketoas raadio-CD-mängija kõlaritega ja televiisor.
+- Saunas kütavad külalised ise.
 - **Suurema seltskonna puhul soovitame catering'ut** — külaline lepib ise kokku menüü, kogused ja kohaletoomise:
   - Q Catering — +372 506 6813, indrek@qcatering.ee, [qcatering.ee](http://qcatering.ee/)
   - Nurme Bistroo (Haapsalu) — [nurmebistroo.ee](https://www.nurmebistroo.ee)
@@ -42,13 +53,17 @@ Ehitatud nõukogude ajal Balti Laevaremonditehase suvilaks. Selle aja hõngu on 
 
 - Ujumiskoht otse ukse all, suvel väga soe vesi.
 - Hea surfirand — sobib nii lohe- kui purjelaua surfaritele ([topu.ee/lobustus/surf](https://topu.ee/lobustus/surf)).
-- Kalapaadiga sõit päris kalurite juhtimisel — soovi korral anname telefoninumbri.
+- Kalapaadiga sõit päris kalurite juhtimisel — soovi korral anname telefoninumbri. Sadam on umbes 200 m kaugusel.
 - Võrkpalliplats maja ees (palli võta ise kaasa).
+- Jalgpalliväravad (pall kaasa).
+- Batuut maja taga.
+- Lipuvarras.
 - Lauatennise laud maja taga (reketid ja pallid võta ise kaasa).
 - Mereäärsed jalutus- ja jooksurajad.
 - Vähese liiklusega küla- ja metsateed rattasõiduks — soovitame oma rattad kaasa võtta.
 - Kalapüük.
 - Saun ja saunast otse merre.
+- Surfamiseks ja kalapüügiks võta paat ja varustus ise kaasa.
 - Kevadel ja sügisel saab lindude rännet pikksilmaga vaadata, kas või otse rõdult.
 
 ## Läheduses
@@ -60,7 +75,9 @@ Ehitatud nõukogude ajal Balti Laevaremonditehase suvilaks. Selle aja hõngu on 
 ## Kodukord
 
 - Kell 23–6 on Haapsalu määruse järgi öörahu.
-- Meie reegel: **alates kella 23 ei kasutata õues helivõimendust.** Naabreid tuleb arvestada.
+- Meie reegel: **alates kella 23 ei kasutata õues helivõimendust.** Kõlareid ja võimendeid õue ei viida. Naabreid tuleb arvestada.
+- Maja on mõeldud rahulikuks puhkuseks, väikesteks laagriteks ja koosolemiseks — mitte lärmakateks pidudeks.
+- Suvel toimuvad majas laste ja täiskasvanute laagrid.
 
 ## Kodulehel veel
 
