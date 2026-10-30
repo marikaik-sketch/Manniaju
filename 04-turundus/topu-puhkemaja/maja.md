@@ -6,7 +6,7 @@ Faktid kodulehelt [topu.ee](https://topu.ee) (seis 2026-10-30). Kui kodulehel mi
 
 ## Asukoht ja kontakt
 
-- Kiviküla, Ridala vald, Läänemaa — umbes 10 km Haapsalust
+- Kiviküla, Ridala vald, Läänemaa — umbes 10 km Haapsalust (lõbustuste lehel 13 km — vt „Veel puudu" README-s)
 - Otse mere kaldal, majast mereni umbes 50 meetrit
 - info@topu.ee · +372 5691 4440
 - Teejuhis „vanakooli kirjelduse järgi": [topu.ee/kontakt/tee-topule](https://topu.ee/kontakt/tee-topule)
@@ -36,10 +36,22 @@ Ehitatud nõukogude ajal Balti Laevaremonditehase suvilaks. Selle aja hõngu on 
 
 ## Tegevused
 
-- Võrkpalliplats maja ees, pinksilaud maja taga.
-- Mereäärsed teed matkamiseks ja rattasõiduks — soovitame oma rattad kaasa võtta.
+- Ujumiskoht otse ukse all, suvel väga soe vesi.
+- Hea surfirand — sobib nii lohe- kui purjelaua surfaritele ([topu.ee/lobustus/surf](https://topu.ee/lobustus/surf)).
+- Kalapaadiga sõit päris kalurite juhtimisel — soovi korral anname telefoninumbri.
+- Võrkpalliplats maja ees (palli võta ise kaasa).
+- Lauatennise laud maja taga (reketid ja pallid võta ise kaasa).
+- Mereäärsed jalutus- ja jooksurajad.
+- Vähese liiklusega küla- ja metsateed rattasõiduks — soovitame oma rattad kaasa võtta.
 - Kalapüük.
-- Topu on tuntud surfikoht.
+- Saun ja saunast otse merre.
+- Kevadel ja sügisel saab lindude rännet pikksilmaga vaadata, kas või otse rõdult.
+
+## Läheduses
+
+- Matsalu looduskaitseala algab 5 km kaugusel ([matsalu.ee](https://www.matsalu.ee)).
+- Haapsalu linn.
+- Rohuküla sadam (14 km) — praamid Hiiumaale ja Vormsile.
 
 ## Kodukord
 
@@ -48,4 +60,4 @@ Ehitatud nõukogude ajal Balti Laevaremonditehase suvilaks. Selle aja hõngu on 
 
 ## Kodulehel veel
 
-Lõbustused, pildid, kalender, toetus — neid lehti pole veel siia toodud.
+Pildid, kalender, toetus, surfileht — neid lehti pole veel siia toodud.

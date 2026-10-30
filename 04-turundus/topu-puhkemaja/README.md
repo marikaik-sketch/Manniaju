@@ -17,6 +17,8 @@
 
 ## Veel puudu
 
+- Kaugus Haapsalust: majutuse leht ütleb 10 km, lõbustuste leht 13 km. Kumb kehtib?
+
 - Kellele Topu on (pered, seltskonnad, paarid?) ja mis neid sinna toob
 - Kanalid: kust broneeringud tulevad (FB, Booking, otse?)
 - Topu hääl Facebookis — tuleb su FB tekstidest
