@@ -19,7 +19,7 @@
 ## Veel puudu
 
 - Kaugus Haapsalust: majutuse leht ütleb 10 km, lõbustuste leht 13 km. Kumb kehtib?
-
 - Kellele Topu on (pered, seltskonnad, paarid?) ja mis neid sinna toob
 - Kanalid: kust broneeringud tulevad (FB, Booking, otse?)
-- Telefon: FB postitus ütleb 56 46 1333, koduleht +372 5691 4440. Kumba kasutada?
+- Telefon: FB postitustes on 56461333, kodulehel +372 5691 4440. Kumba kasutada?
+- Millal maja sügisel sulgeb?

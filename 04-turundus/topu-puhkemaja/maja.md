@@ -11,6 +11,10 @@ Faktid kodulehelt [topu.ee](https://topu.ee) (seis 2026-10-30). Kui kodulehel mi
 - info@topu.ee · +372 5691 4440
 - Teejuhis „vanakooli kirjelduse järgi": [topu.ee/kontakt/tee-topule](https://topu.ee/kontakt/tee-topule)
 
+## Hooaeg
+
+Talvel on maja kinni. Avab uksed mai keskel (FB, 2026-01-21). Millal sulgeb — veel teadmata.
+
 ## Lugu
 
 Ehitatud nõukogude ajal Balti Laevaremonditehase suvilaks. Selle aja hõngu on tunda tänagi.
