@@ -45,6 +45,13 @@ Vanimast uuemani. Külaliste nimed asendatakse „[külaline]"-ga, ka siis, kui 
 
 **2023-08-07** — klassikokkutuleku pilt meres, külalise tsitaat. Külalise nimi on siin asendatud.
 
+> 🦭🔥🐬🌊🦭"Meie nädalavahetuse põhitegevus ja kõige sagedasem vaatepilt. Nii päeval kui öösel, saunatades ja niisama" ütles [külaline], kui meile selle pildi saatis.
+>
+> Aga need ei ole hülged, mis pildil. On hoopis ühe Haapsalu kooli klassikokkutulek, kes meil juba mitmendat korda. Selline see elu meil Topu Puhkemajas ongi: maal ja merel ja meres.
+>
+> Suvi kestab!
+> Tulge ka. Järgmise aasta suvi on ka ukse ees, meil broneeringuid juba hoogsalt lisandub - just nendelt, kes juba korduvalt käinud on ning ikka ja jälle tagasi soovivad tulla.
+
 **2024-01-09** — talvepildid, suveplaanid.
 
 > ❄️❄️Topu talved on ilusad. Isegi väga ilusad. Aga täpselt sama ilusad, kuid veidi soojemad on meie suved.
