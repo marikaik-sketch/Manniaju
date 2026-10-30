@@ -112,10 +112,3 @@ Vanimast uuemani. Külaliste nimed asendatakse „[külaline]"-ga, ka siis, kui 
 > Õhtud ja ka päevad on meil imeilusad (vihma on ikka üliharva). Näiteks eile oli loojang meie hoovilt vaadatuna just nii nagu pildil.
 >
 > Kirjuta info@topu.ee või helista 56 46 1333
-
-> 🦭🔥🐬🌊🦭"Meie nädalavahetuse põhitegevus ja kõige sagedasem vaatepilt. Nii päeval kui öösel, saunatades ja niisama" ütles [külaline], kui meile selle pildi saatis.
->
-> Aga need ei ole hülged, mis pildil. On hoopis ühe Haapsalu kooli klassikokkutulek, kes meil juba mitmendat korda. Selline see elu meil Topu Puhkemajas ongi: maal ja merel ja meres.
->
-> Suvi kestab!
-> Tulge ka. Järgmise aasta suvi on ka ukse ees, meil broneeringuid juba hoogsalt lisandub - just nendelt, kes juba korduvalt käinud on ning ikka ja jälle tagasi soovivad tulla.
