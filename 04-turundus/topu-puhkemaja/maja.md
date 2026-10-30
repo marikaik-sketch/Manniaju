@@ -6,9 +6,9 @@ Faktid kodulehelt [topu.ee](https://topu.ee) ja minu külaliskirjadest (seis 202
 
 ## Asukoht ja kontakt
 
-- Kiviküla, Ridala vald, Läänemaa — umbes 10 km Haapsalust (lõbustuste lehel 13 km — vt „Veel puudu" README-s)
+- Kiviküla, Ridala vald, Läänemaa — umbes 13 km Haapsalust
 - Otse mere kaldal, majast mereni umbes 50 meetrit
-- info@topu.ee · +372 5691 4440
+- info@topu.ee · 56 46 1333 (kodulehel on vana number +372 5691 4440 — vaja parandada)
 - Teejuhis „vanakooli kirjelduse järgi": [topu.ee/kontakt/tee-topule](https://topu.ee/kontakt/tee-topule)
 
 ## Hooaeg
@@ -41,7 +41,7 @@ Ehitatud nõukogude ajal Balti Laevaremonditehase suvilaks. Selle aja hõngu on 
 
 - Ise saab süüa teha: elektripliit, potid-pannid, nõud, külmikud, mitu pikka lauda.
 - Söegrill olemas, söed ja grillitarbed võta ise kaasa. Gaasigrill on ka olemas (kodulehel: laenutada saab suurt gaasi-grillpanni).
-- Lähim pood on Haapsalus, umbes 10 km — asjad tasub enne varuda.
+- Lähim pood on Haapsalus, umbes 13 km — asjad tasub enne varuda.
 - Puhketoas raadio-CD-mängija kõlaritega ja televiisor.
 - Saunas kütavad külalised ise.
 - **Suurema seltskonna puhul soovitame catering'ut** — külaline lepib ise kokku menüü, kogused ja kohaletoomise:

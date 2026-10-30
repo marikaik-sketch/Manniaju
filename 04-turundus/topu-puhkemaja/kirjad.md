@@ -4,7 +4,7 @@ Kirjad, mida saadan külalistele ikka ja jälle. Minu sõnastus. Muutuvad kohad 
 
 **Faktide kodu on [`maja.md`](maja.md) ja [`hinnad.md`](hinnad.md).** Kui seal midagi muutub (hind, kellaaeg, mis majas olemas on), paranda ka siin.
 
-Parandused võrreldes algse tekstiga (2026-10-30): käibemaks 9% → 13% (majutuse käibemaks on 13% alates 2025), kirjavead.
+Parandused võrreldes algse tekstiga (2026-10-30): käibemaks 9% → 13% (majutuse käibemaks on 13% alates 2025), Haapsalu kaugus 10 → 13 km, kirjavead. Kiri nr 3 on ümber kirjutatud.
 
 ---
 
@@ -24,7 +24,7 @@ Parandused võrreldes algse tekstiga (2026-10-30): käibemaks 9% → 13% (majutu
 
 ## 2. Kiri enne tulekut (check-in ja reeglid)
 
-> Meil on väga väga hea meel, et tulete Topule – meil on mõnus ja rahulik koht otse mere ääres, umbes 10 km Haapsalust. Vaid 50 meetrit veepiirist asuv puhkemaja on ehitatud Nõukogude ajal Balti Laevaremonditehase suvilaks ning ajastu hõngu on tunda ka täna – seega olge valmis veidi retrohõnguliseks, aga väga väga mõnusaks olemiseks 😊
+> Meil on väga väga hea meel, et tulete Topule – meil on mõnus ja rahulik koht otse mere ääres, umbes 13 km Haapsalust. Vaid 50 meetrit veepiirist asuv puhkemaja on ehitatud Nõukogude ajal Balti Laevaremonditehase suvilaks ning ajastu hõngu on tunda ka täna – seega olge valmis veidi retrohõnguliseks, aga väga väga mõnusaks olemiseks 😊
 >
 > **🕒 Sisse ja välja registreerimine, kodukord ja hea tava**
 >
@@ -68,7 +68,7 @@ Parandused võrreldes algse tekstiga (2026-10-30): käibemaks 9% → 13% (majutu
 >
 > **🛒 Lähim kauplus**
 >
-> Lähim pood asub Haapsalus, umbes 10 km kaugusel – seega soovitame vajalikud asjad varuda enne tulekut.
+> Lähim pood asub Haapsalus, umbes 13 km kaugusel – seega soovitame vajalikud asjad varuda enne tulekut.
 >
 > Meie puhkemaja on ideaalne paik rahulikuks puhkuseks, väikesteks laagriteks ja mõnusaks koosolemiseks – mitte lärmakateks pidudeks. Kui sul tekib lisaküsimusi, anna julgelt märku!
 >
@@ -83,60 +83,51 @@ Parandused võrreldes algse tekstiga (2026-10-30): käibemaks 9% → 13% (majutu
 
 ## 3. Kiri enne broneeringut (ülevaade majast)
 
-> Topu Puhkemaja on mõnus koht, mis asub umbes 10 kilomeetrit Haapsalust mere ääres, kõigest 50 meetrit veest. See on ehitatud Nõukogude ajal Balti Laevaremonditehase suvilaks ja seda ajastut on majas veel tunda.
+*Ümber kirjutatud 2026-10-30 Topu hääles. Hinna ja vabade aegade jaoks kasuta kirja nr 1.*
+
+> Tere!
 >
-> **Majutus ja mugavused**
+> Aitäh, et Topu vastu huvi tunnete! Siin on lühidalt, mis meil on.
 >
-> Maja on kahekorruseline. Esimesel korrusel on:
-> - Köök-puhketuba, kus saab ise süüa teha. Seal on olemas elektripliit, külmikud, nõud ja kõik toidutegemiseks vajalikud vahendid.
-> - Kaminaruum, kus saab mõnusalt aega veeta.
-> - Saun ja pesemisruumid.
-> - WC ja abiruumid.
+> Topu Puhkemaja on otse mere ääres, 50 meetrit veepiirist ja umbes 13 km Haapsalust. Maja ehitati Nõukogude ajal Balti Laevaremonditehase suvilaks ja seda on tunda tänagi – veidi retro, aga väga mõnus 😊
 >
-> Teisel korrusel on:
-> - 9 magamistuba, kokku 20 voodikohta: 8 tuba kahe voodiga, 1 tuba nelja voodiga.
-> - Pooltes tubades on narid, pooltes üheinimesevoodid.
-> - Kõikidel tubadel on rõdu, mõned toad avanevad merele ja mõned hoovi poole.
-> - Igas toas on voodid puhta pesuga, öökapid ja valgustid.
+> **🏠 Maja**
+> - 1. korrusel on köök-puhketuba (elektripliit, külmikud, nõud ja potid-pannid), kaminaruum, saun, pesemisruumid ja WC-d.
+> - 2. korrusel on 9 magamistuba ja kokku 20 voodikohta: 8 tuba kahe voodiga, 1 tuba nelja voodiga. Pooltes tubades on narid.
+> - Igal toal on rõdu – osa vaatab merele, osa hoovi.
+> - Voodid on puhta pesuga. Saunalinad võtke kaasa.
+> - Lisakohti saab madratsitega. Hoovis on ka telkimisplats.
 >
-> **Lisavõimalused**
-> - Telkimisplats.
-> - Vajadusel saab lisavoodikohti tekitada madratsitega.
+> **🌲 Mida teha saab**
+> - Ujuda ja saunast otse merre minna
+> - Grillida – söegrill ja gaasigrill on olemas, söed võtke kaasa
+> - Mängida võrk-, jalg- ja lauatennist – pallid ja reketid võtke kaasa
+> - Lapsed saavad batuudil hüpata
+> - Jalutada ja rattaga mööda mereäärt sõita – rattad tasub kaasa võtta
+> - Surfata ja kala püüda – Topu on tuntud surfikoht. Varustus võtke kaasa
+> - Minna kohalike kaluritega paadiga merele – sadam on 200 meetri kaugusel, numbri anname
 >
-> **Lõbustused ja sport**
-> - Võrkpalliplats maja ees (pallid ise kaasa).
-> - Matka- ja rattateed, mis kulgevad mööda mereäärt, nii et rattad tasub kaasa võtta.
-> - Kalapüügivõimalused.
-> - Surfamine – Topu on tuntud surfamise kohana (varustus tuleb kaasa võtta).
-> - Õues on pinksilaud (reketid ja pallid peate ise kaasa võtma).
-> - Jalgpalliväravad (pallid kaasa).
-> - Batuut maja taga.
+> **🍽 Söök**
 >
-> **Reeglid ja vajalikud asjad**
-> - Kell 11 õhtul peab olema õues vaikus, sest naabrid võivad muidu häiritud olla. Palun ärge õues kõlareid ja muid võimendeid kasutage.
-> - Saunalinad tuleb ise kaasa võtta.
-> - Kui soovite grillida, siis võtke kaasa grillsüsi ja grillitarbed.
-> - Lipuvarras ja gaasigrill on olemas.
-> - Toas on kõlarid, aga projektorit ja internetti pole.
-> - Paberid ja pliiatsid tuleb ise kaasa võtta.
+> Ise saab kõike teha. Suurele seltskonnale soovitame catering'ut: Q Catering ([qcatering.ee](http://qcatering.ee/)) või Nurme Bistroo ([nurmebistroo.ee](https://www.nurmebistroo.ee)). Menüü ja kohaletoomise lepite nendega ise kokku.
 >
-> **Lisateenused ja soovitused**
-> - Paadisõidud kohalike kaluritega (sadam on umbes 200 meetri kaugusel).
-> - Puhkemaja sobib rohkem laagriteks ja rahulikuks puhkuseks kui suurteks pidudeks.
-> - Suvel toimuvad seal laste ja täiskasvanute laagrid.
+> **🤫 Hea teada**
+> - Topu sobib rahulikuks puhkuseks, laagriteks ja kokkutulekuteks – lärmakateks pidudeks mitte.
+> - Kell 23 jääb õues vaikseks, sest naabrid tahavad ka magada. Kõlareid ja võimendeid õue ei viida.
+> - Projektorit ja internetti meil ei ole.
 >
-> **Catering-soovitused**
-> - Q Catering (populaarne laagritoidu pakkuja).
-> - Nurme Bistroo.
+> **📅 Broneerimine**
+> - Broneerida saab telefoni või e-kirja teel.
+> - Broneeringu kinnitab 50% ettemaks. Tühistamisel seda tagasi ei saa.
+> - Ülejäänud summa tasute hiljemalt saabudes.
+> - Hinnad sisaldavad 13% majutuse käibemaksu. Ruumide rendi puhul on käibemaks 22% – sel juhul küsige eraldi pakkumist.
 >
-> **Broneerimine ja arveldamine**
-> - Broneeringu saab teha telefoni või e-maili teel.
-> - Broneeringu kinnitamiseks on vaja teha 50% ettemaks, mida tühistamisel ei tagastata.
-> - Ülejäänud summa tuleb tasuda puhkemajja saabumisel.
-> - Kõik hinnad sisaldavad 13% majutusteenuse käibemaksu.
-> - Ruumide rentimisel rakendub 22% käibemaksumäär, hinnapakkumist saab eraldi küsida.
+> Kui küsimusi tekib, andke julgelt märku!
 >
-> Topu Puhkemaja on ideaalne koht, kus nautida rahulikku ja looduslähedast puhkust. Seal on palju võimalusi sportimiseks ja lõõgastumiseks, ning broneerimine on lihtne, kui meeles pidada, et kinnitamiseks on vaja teha ettemaks.
+> Sõbralikult,
+> Marikai
+> 📞 56 46 1333
+> Topu Puhkemaja tiim
 
 ---
 
