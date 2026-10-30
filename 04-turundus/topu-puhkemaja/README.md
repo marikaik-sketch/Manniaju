@@ -6,6 +6,7 @@
 
 - **Topu Puhkemaja** — meie oma majutusasutus. Koduleht: [www.topu.ee](https://www.topu.ee)
 - **Minu roll:** teen Topu turundust.
+- **Maja, toad, söök, tegevused, kodukord:** vt [`maja.md`](maja.md).
 - **Broneeringud** tulevad kalendrisse „Topu Puhkemaja Bronnid" (vt [`skillid/hommikune-briif`](../../skillid/hommikune-briif/SKILL.md)).
 
 ## Kus mis on
