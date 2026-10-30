@@ -1,6 +1,6 @@
 # Topu Facebooki postitused
 
-Kuidas Topu Facebookis räägib. Reeglid on võetud minu enda postitustest. **Praegu on näiteid neli — järeldused on esialgsed**, täpsusta, kui neid tuleb juurde.
+Kuidas Topu Facebookis räägib. Reeglid on võetud minu enda postitustest. **Praegu on näiteid viis — järeldused on esialgsed**, täpsusta, kui neid tuleb juurde.
 
 ## Mida Topu postitus teeb (esialgne)
 
@@ -13,11 +13,27 @@ Kuidas Topu Facebookis räägib. Reeglid on võetud minu enda postitustest. **Pr
 - **Lõpus lihtne üleskutse:** kirjuta või helista, e-post ja telefon.
 - Emotikone vähe ja ainult alguses (päikesed, talvel lumehelbed), vahel üks naerunägu.
 - **Talvel müüb suve:** näitab talvepilte, aga kutsub suveks — „Suvel on sama ilus, aga veidi soojem ja rohelisem ja meri sinisem."
+- **Teised on juba broneerinud:** „Väga paljud meie vanad ja uued sõbrad on varakult oma broneeringud … ära teinud."
+- **Nimetab, kellega tulla:** sõpradega, sugulastega, klassikaaslaste kokkutulek „või täitsa niisama".
 - **Vabu aegu on vähe:** „vabad on veel vaid ühe käe sõrmede jagu nädalavahetusi", „veel on valikut".
 - **Mitte iga postitus ei müü.** Vahel on see lihtsalt elu majas ja aitäh sõpradele (talgud, kontsert).
 - **Suunab kalendrisse:** topu.ee/kalender + e-post (+ telefon).
 
 ## Näited
+
+Vanimast uuemani.
+
+**2025-01-05** — uue aasta tervitus, talveilu, suveks broneerimine.
+
+> 🌞🌞Head Topu puhkemaja sõbrad!
+>
+> Kõige helgemat, mõnusamat ja murevabamat uut aastat teile kõigile! Soovime, et meil kõikidel oleks Eestis hea ja rahulik elada ning ootame Topule!
+>
+> Topul võib praegu ilu ja valguse peale pikali kukkuda- nii nii kaunis on kõik! Lõpuks tuli lumi ja meri hakkab ka vaikselt jäässe minema. Väga paljud meie vanad ja uued sõbrad on varakult oma broneeringud kevadeks ja suveks ära teinud- suveplaanid paigas on hea talveilmasid nautida!
+>
+> Tulge ka meile kas sõpradega puhkust veetma, sugulaste või klassikaaslastega kokkutulekut tegema või täitsa niisama.
+>
+> Vabasid aegasid näed www.topu.ee, võid ka kirjutada info@topu.ee või helistada 56 46 1333.
 
 **2025-05-12** — kevadtalgud, suveks valmis, aitäh sõpradele.
 
@@ -25,15 +41,6 @@ Kuidas Topu Facebookis räägib. Reeglid on võetud minu enda postitustest. **Pr
 >
 > Õhtu lõpetuseks toimus ka väike kontsert, virtuoos Janeki juhtimisel!
 > Aitäh sõbrad ja näeme peagi!
-
-**2026-07-22** — vaba nädalavahetus, pilt loojangust hoovilt. 4 meeldimist, 5 jagamist.
-
-> 🌞🌞🌞Sõbrad! Hea uudis-meil on puhkemaja 31.juulist- 2. augustini vaba!
->
-> Äkki otsid sõpruskonnaga kohta, kuhu tulla puhkama: ujuma, kala püüdma, surfama, supitama, logelema, päevitama 🙂.
-> Õhtud ja ka päevad on meil imeilusad (vihma on ikka üliharva). Näiteks eile oli loojang meie hoovilt vaadatuna just nii nagu pildil.
->
-> Kirjuta info@topu.ee või helista 56 46 1333
 
 **2026-01-21** — talveseis, maja kinni, suveks broneerimine.
 
@@ -49,3 +56,12 @@ Kuidas Topu Facebookis räägib. Reeglid on võetud minu enda postitustest. **Pr
 > Suvel on sama ilus, aga veidi soojem ja rohelisem ja meri sinisem. Tulge meile puhkama, vabad on veel vaid vaid ühe käe sõrmede jagu nädalavahetusi!
 >
 > Vaata www.topu.ee/kalender või kirjuta info@topu.ee
+
+**2026-07-22** — vaba nädalavahetus, pilt loojangust hoovilt. 4 meeldimist, 5 jagamist.
+
+> 🌞🌞🌞Sõbrad! Hea uudis-meil on puhkemaja 31.juulist- 2. augustini vaba!
+>
+> Äkki otsid sõpruskonnaga kohta, kuhu tulla puhkama: ujuma, kala püüdma, surfama, supitama, logelema, päevitama 🙂.
+> Õhtud ja ka päevad on meil imeilusad (vihma on ikka üliharva). Näiteks eile oli loojang meie hoovilt vaadatuna just nii nagu pildil.
+>
+> Kirjuta info@topu.ee või helista 56 46 1333
