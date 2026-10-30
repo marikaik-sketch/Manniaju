@@ -13,7 +13,7 @@ Faktid kodulehelt [topu.ee](https://topu.ee) ja minu külaliskirjadest (seis 202
 
 ## Hooaeg
 
-Talvel on maja kinni. Avab uksed mai keskel (FB, 2026-01-21). Millal sulgeb — veel teadmata.
+Talvel on maja kinni. Avab uksed mai keskel (FB, 2026-01-21). Septembris on veel lahti (FB, 2021-09-15). Millal täpselt sulgeb — veel teadmata.
 
 ## Saabumine ja lahkumine
 

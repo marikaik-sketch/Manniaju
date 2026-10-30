@@ -1,6 +1,6 @@
 # Topu Facebooki postitused
 
-Kuidas Topu Facebookis räägib. Reeglid on võetud minu enda postitustest. **Praegu on näiteid üheksa — järeldused on esialgsed**, täpsusta, kui neid tuleb juurde.
+Kuidas Topu Facebookis räägib. Reeglid on võetud minu enda postitustest. **Praegu on näiteid kümme — järeldused on esialgsed**, täpsusta, kui neid tuleb juurde.
 
 ## Mida Topu postitus teeb (esialgne)
 
@@ -17,6 +17,7 @@ Kuidas Topu Facebookis räägib. Reeglid on võetud minu enda postitustest. **Pr
 - **Lõpus lihtne üleskutse:** kirjuta või helista, e-post ja telefon.
 - Emotikone vähe ja ainult alguses (päikesed, talvel lumehelbed), vahel üks naerunägu.
 - **Lõpetab hooaja müüki:** suve lõpus kiidab augustit — „oma veidi pimedamate õhtute ja ritsikate siristamisega".
+- **Iga hooaeg on oma põhjus tulla:** sügisel linnuränne, tähed, külm vesi pärast sauna, astelpaju — ja nali: „rohelist muru vaadata (sest suvel on muru kollane)".
 - **Talvel müüb suve:** näitab talvepilte, aga kutsub suveks — „Suvel on sama ilus, aga veidi soojem ja rohelisem ja meri sinisem." See mõte kordub igal talvel — sobib Topu püsilauseks.
 - **Teised on juba broneerinud:** „Väga paljud meie vanad ja uued sõbrad on varakult oma broneeringud … ära teinud."
 - **Nimetab, kellega tulla:** sõpradega, sugulastega, klassikaaslaste kokkutulek „või täitsa niisama".
@@ -24,11 +25,15 @@ Kuidas Topu Facebookis räägib. Reeglid on võetud minu enda postitustest. **Pr
 - **Mitte iga postitus ei müü.** Vahel on see lihtsalt elu majas ja aitäh sõpradele (talgud, kontsert).
 - **Suunab kalendrisse:** topu.ee/kalender + e-post (+ telefon).
 
-## Näited
 
 Vanimast uuemani. Külaliste nimed asendatakse „[külaline]"-ga, ka siis, kui postitus on avalik.
 
-**2023-08-07** — klassikokkutuleku pilt meres, külalise tsitaat. Külalise nimi on siin asendatud.
+**2021-09-15** — sügis Topul, mida sügisel teha. Pilt samal hommikul maja juures.
+
+> 📢📢Sõbrad! Sügis tuli. Aga sügis on ka tore aastaaeg! Meil Topul eriti. Saab jälgida, kuidas linnud suurte ja väga suurte parvedena talviseks äralennuks valmistuvad, saab kalal käia, saab surfata, kui on tuuline, saab tähti vaadata, külmas vees ujumas käia (näiteks enne või peale sauna), päikest võtta, rohelist muru vaadata (sest suvel on muru kollane), astelpaju marju süüa (neid on meid palju).
+> Tulge külla!
+> 👉 kirjuta info@topu.ee või helista 56 46 1333
+> (pilt on tehtud täna s.o. 15.septembri hommikul puhkemaja juures)
 
 **2023-06-30** — ootamatult vabanenud nädalavahetus, spontaanne kutse.
 
@@ -37,6 +42,8 @@ Vanimast uuemani. Külaliste nimed asendatakse „[külaline]"-ga, ka siis, kui 
 > Miks mitte teha üks sõpradega kogunemine, ekspromt klassi või sugulaste kokkutulek või surf ja grill ning niisama chill.
 >
 > Helista 56 46 1333 või kirjuta info@topu.ee!
+
+**2023-08-07** — klassikokkutuleku pilt meres, külalise tsitaat. Külalise nimi on siin asendatud.
 
 **2024-01-09** — talvepildid, suveplaanid.
 
