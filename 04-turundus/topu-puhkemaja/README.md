@@ -20,7 +20,6 @@
 ## Veel puudu
 
 - Kodulehel parandada: telefon (vana +372 5691 4440 → 56 46 1333) ja majutuse lehel kaugus Haapsalust (10 km → 13 km).
-
 - Kellele Topu on ja mis neid sinna toob. FB postitused nimetavad sõpruskondi, sugulasi, klassikokkutulekuid; hinnakiri peresid ja lastelaagreid. Kes on päriselt kõige sagedasem?
 - Kanalid: kust broneeringud tulevad (FB, Booking, otse?)
 - Millal maja sügisel sulgeb?
