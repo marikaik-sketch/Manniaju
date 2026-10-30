@@ -1,6 +1,6 @@
 # Topu Facebooki postitused
 
-Kuidas Topu Facebookis räägib. Reeglid on võetud minu enda postitustest. **Praegu on näiteid kümme — järeldused on esialgsed**, täpsusta, kui neid tuleb juurde.
+Kuidas Topu Facebookis räägib. Reeglid on võetud minu enda postitustest. **Praegu on näiteid üksteist — järeldused on esialgsed**, täpsusta, kui neid tuleb juurde.
 
 ## Mida Topu postitus teeb (esialgne)
 
@@ -17,6 +17,8 @@ Kuidas Topu Facebookis räägib. Reeglid on võetud minu enda postitustest. **Pr
 - **Lõpus lihtne üleskutse:** kirjuta või helista, e-post ja telefon.
 - Emotikone vähe ja ainult alguses (päikesed, talvel lumehelbed), vahel üks naerunägu.
 - **Lõpetab hooaja müüki:** suve lõpus kiidab augustit — „oma veidi pimedamate õhtute ja ritsikate siristamisega".
+- **Sõnamäng sulgudes:** „mitme(kümne)ndat korda".
+- **Pimedal ajal annab lootust:** „juba kahe kuu pärast keerab päeva pikkus tõusule 🙂".
 - **Iga hooaeg on oma põhjus tulla:** sügisel linnuränne, tähed, külm vesi pärast sauna, astelpaju — ja nali: „rohelist muru vaadata (sest suvel on muru kollane)".
 - **Talvel müüb suve:** näitab talvepilte, aga kutsub suveks — „Suvel on sama ilus, aga veidi soojem ja rohelisem ja meri sinisem." See mõte kordub igal talvel — sobib Topu püsilauseks.
 - **Teised on juba broneerinud:** „Väga paljud meie vanad ja uued sõbrad on varakult oma broneeringud … ära teinud."
@@ -112,3 +114,13 @@ Vanimast uuemani. Külaliste nimed asendatakse „[külaline]"-ga, ka siis, kui 
 > Õhtud ja ka päevad on meil imeilusad (vihma on ikka üliharva). Näiteks eile oli loojang meie hoovilt vaadatuna just nii nagu pildil.
 >
 > Kirjuta info@topu.ee või helista 56 46 1333
+
+**2026-10-30** — hooaja lõpp, aitäh külalistele, broneerimine järgmiseks suveks. Kolm sügispilti: maja, meri, paat murul. Mustandi tegi AI, minu parandused: „peagi talveunne", „nagu ikka", „mitme(kümne)ndat", „rõõmsaks" (mitte „õnnelikuks"), päeva pikkuse lause, „või -nädalat", „maikuus".
+
+> 🍂🍂Sõbrad! Topu suvi on läbi ja maja jääb peagi talveunne.
+>
+> Aitäh kõigile, kes sel suvel meil käisid – perekonnad, suguvõsad, sõpruskonnad ning kunstilaagrid suurtele ja väikestele! Ujusite, saunatasite, grillisite, maalisite ja vaatasite loojanguid (vihma oli üliharva- nagu ikka). Nii mõnigi teist oli meil juba mitme(kümne)ndat korda – see teeb meid eriti rõõmsaks.
+>
+> Järgmine suvi tuleb kiiremini, kui arvata oskame- juba kahe kuu pärast keerab päeva pikkus tõusule 🙂. Esimesed broneeringud on järgmiseks suveks juba tehtud. Kui tahad oma lemmiknädalavahetust või -nädalat, vaata vabu aegu topu.ee/kalender, kirjuta info@topu.ee või helista 56 46 1333.
+>
+> Kohtumiseni maikuus! 🌊
