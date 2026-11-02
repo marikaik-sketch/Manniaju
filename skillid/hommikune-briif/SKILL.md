@@ -37,17 +37,18 @@ Kord päevas, briifi tegemise ajal: otsi konnektorite registrist (`SearchMcpRegi
 ## Mida teha, samm-sammult
 
 1. Loe kõigist viiest kalendrist tänased sündmused (00:00–24:00 Tallinna aja järgi).
-2. Eemalda topeltsündmused (sama pealkiri ja aeg mitmes kalendris).
-3. Leia kattuvused: kaks asja, mis nõuavad **minu** kohalolekut samal ajal, või logistika, mis langeb kokku minu kohtumisega. Karla koolitund minu koosolekuga kattumine ei ole kattuvus. Märgi ka liiga tihe üleminek (alla 15 minuti kahe kohtumise vahel, mis on eri kohas).
-4. Kirjuta briif (kuju allpool) ja saada see aadressile **marikai@bda.ee**, teemaks `Hommikune briif – <nädalapäev> <kuupäev>` (näiteks „Hommikune briif – teisipäev 13.10").
+2. Eemalda topeltsündmused **ainult Karla kalendrite vahel** (Karla-Mann-AP ja karlapalts@gmail.com). Marikai ja BDA kalendrit **ära omavahel kokku aja**: sama koosolek võib olla mõlemas nimekirjas ja see on õige. Iga kalender näitab kõike, mis tema all on.
+3. Märgi BDA kalendris iga sündmuse juurde, kas Marikai peab osalema. Kui sama sündmus on ka `marikaik@gmail.com` kalendris või ta on osalejate seas, on tal osalemine. Kui ei ole, kirjuta reale „(mind pole kutsutud)" ja ära loe seda kattuvuste hulka.
+4. Leia kattuvused: kaks asja, mis nõuavad **minu** kohalolekut samal ajal, või logistika, mis langeb kokku minu kohtumisega. Karla koolitund minu koosolekuga kattumine ei ole kattuvus. Märgi ka liiga tihe üleminek (alla 15 minuti kahe kohtumise vahel, mis on eri kohas). Üks sündmus, mis on nii isiklikus kui BDA kalendris, ei ole iseendaga kattuv.
+5. Kirjuta briif (kuju allpool) ja saada see aadressile **marikai@bda.ee**, teemaks `Hommikune briif – <nädalapäev> <kuupäev>` (näiteks „Hommikune briif – teisipäev 13.10").
 
 ## Mis kujul tulemus on
 
 Lühike e-kiri, HTML-ina, eesti keeles. Järjekord:
 
 1. **Kattuvused** — ainult siis, kui neid on. Kõige üles, sest need nõuavad otsust.
-2. **Minu isiklik kalender** (`marikaik@gmail.com`) — kellaaeg, mis, Meet-/Zoom-link kui on. Ajajärjekorras.
-3. **BDA Consulting** (`consulting.bda@gmail.com`) — eraldi plokk, mitte isikliku kalendriga koos. Sama kuju.
+2. **Minu isiklik kalender** (`marikaik@gmail.com`) — **kõik** sellest kalendrist, kellaaeg, mis, Meet-/Zoom-link kui on. Ajajärjekorras. Ka need, mis on BDA kalendris samuti.
+3. **BDA Consulting** (`consulting.bda@gmail.com`) — eraldi plokk, **kõik** sellest kalendrist, ka need, mis on isiklikus samuti. Sama kuju. Kui mind pole kutsutud, märgi „(mind pole kutsutud)".
 4. **Karla logistika** — kes, kuhu, mis kell. Pluss üks taustarida koolipäeva ja huviringidega.
 5. **Topu** — saabujad ja lahkujad. Kui täna midagi pole, jäta plokk ära.
 6. **Tasks** — vt ülal.
